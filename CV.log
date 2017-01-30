@@ -1,4 +1,4 @@
-This is LuaTeX, Version 0.95.0 (TeX Live 2016)  (format=lualatex 2016.5.22)  30 JAN 2017 08:30
+This is LuaTeX, Version 0.95.0 (TeX Live 2016)  (format=lualatex 2016.5.22)  30 JAN 2017 08:33
  restricted system commands enabled.
 **CV.tex
 (./CV.tex
@@ -205,7 +205,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.142 seconds)
+luaotfload | main : initialization completed in 0.143 seconds)
 Lua module: fontspec 2016/02/01 2.5a Advanced font selection for LuaLaTeX.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
 Package: fontspec-luatex 2016/02/01 v2.5a Font selection for XeLaTeX and LuaLaTe
@@ -928,7 +928,7 @@ Here is how much of LuaTeX's memory you used:
  715 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 43 glue, 17 attribute, 47 glue_spec, 17 attribute_l
 ist, 1 write nodes
-   avail lists: 2:735,3:221,4:55,5:516,6:7423,7:1802,8:122,9:414,10:13,11:752
+   avail lists: 2:735,3:221,4:57,5:516,6:7467,7:1808,8:122,9:414,10:13,11:758
  26330 multiletter control sequences out of 65536+600000
  42 fonts using 3562891 bytes
  52i,13n,43p,377b,437s stack positions out of 5000i,500n,10000p,200000b,100000s
@@ -938,7 +938,7 @@ f></usr/local/texlive/2016/texmf-dist/fonts/opentype/public/lm/lmroman10-regular
 .otf></usr/local/texlive/2016/texmf-dist/fonts/opentype/public/lm/lmroman12-bold
 .otf></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.p
 fb>
-Output written on CV.pdf (2 pages, 63504 bytes).
+Output written on CV.pdf (2 pages, 63511 bytes).
 
 PDF statistics: 84 PDF objects out of 1000 (max. 8388607)
  60 compressed objects within 1 object stream
