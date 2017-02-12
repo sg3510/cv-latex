@@ -1,4 +1,4 @@
-This is LuaTeX, Version 0.95.0 (TeX Live 2016)  (format=lualatex 2017.1.29)  30 JAN 2017 21:31
+This is LuaTeX, Version 0.95.0 (TeX Live 2016)  (format=lualatex 2017.1.29)  12 FEB 2017 11:30
  restricted system commands enabled.
 **CV.tex
 (./CV.tex
@@ -205,7 +205,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.113 seconds)
+luaotfload | main : initialization completed in 0.167 seconds)
 Lua module: fontspec 2016/02/01 2.5a Advanced font selection for LuaLaTeX.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
 Package: fontspec-luatex 2016/02/01 v2.5a Font selection for XeLaTeX and LuaLaTe
@@ -838,13 +838,13 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (
 RS)
 )(compiling luc: /usr/local/texlive/2016/texmf-var/luatex-cache/generic/fonts/ot
 l/lmroman12-bold.luc)(load luc: /Users/seb/Library/texlive/2016/texmf-var/luatex
--cache/generic/fonts/otl/lmroman12-bold.luc) Randomizer initialized to 15122983
-86.
+-cache/generic/fonts/otl/lmroman12-bold.luc) Randomizer initialized to 81110032
+5.
 Package epstopdf Info: Source file: <Images/LinkedIn.eps>
-(epstopdf)                    date: 2015-02-19 06:41:54
+(epstopdf)                    date: 2015-02-19 09:41:54
 (epstopdf)                    size: 233497 bytes
 (epstopdf)             Output file: <Images/LinkedIn-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-01-27 18:44:52
+(epstopdf)                    date: 2017-01-27 21:44:52
 (epstopdf)                    size: 12138 bytes
 (epstopdf)             Command: <repstopdf --outfile=Images/LinkedIn-eps-convert
 ed-to.pdf Images/LinkedIn.eps>
@@ -859,10 +859,10 @@ Package luatex.def Info: Images/LinkedIn-eps-converted-to.pdf used on input line
  86.
 (luatex.def)             Requested size: 51.99503pt x 13.17441pt.
 Package epstopdf Info: Source file: <Images/GitHub_Logo.eps>
-(epstopdf)                    date: 2015-02-19 06:41:54
+(epstopdf)                    date: 2015-02-19 09:41:54
 (epstopdf)                    size: 564990 bytes
 (epstopdf)             Output file: <Images/GitHub_Logo-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-01-27 18:44:52
+(epstopdf)                    date: 2017-01-27 21:44:52
 (epstopdf)                    size: 12921 bytes
 (epstopdf)             Command: <repstopdf --outfile=Images/GitHub_Logo-eps-conv
 erted-to.pdf Images/GitHub_Logo.eps>
@@ -899,9 +899,7 @@ Overfull \hbox (7.78258pt too wide) in alignment at lines 165--215
  []
 
 
-Overfull \hbox (7.78258pt too wide) in alignment at lines 219--232
- [][] 
- []
+Overfull \vbox (0.8333pt too high) has occurred while \output is active []
 
 (compiling luc: /usr/local/texlive/2016/texmf-var/luatex-cache/generic/fonts/otl
 /lmroman8-regular.luc)(load luc: /Users/seb/Library/texlive/2016/texmf-var/luate
@@ -909,6 +907,11 @@ x-cache/generic/fonts/otl/lmroman8-regular.luc) [1
 
 {/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}<./Images/
 LinkedIn-eps-converted-to.pdf><./Images/GitHub_Logo-eps-converted-to.pdf>]
+Overfull \hbox (7.78258pt too wide) in alignment at lines 219--232
+ [][] 
+ []
+
+
 Overfull \hbox (7.78258pt too wide) in alignment at lines 237--246
  [][] 
  []
@@ -929,20 +932,20 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 248.
 Here is how much of LuaTeX's memory you used:
  23250 strings out of 495119
  100000,552014 words of node,token memory allocated
- 715 words of node memory still in use:
-   3 hlist, 1 vlist, 1 rule, 43 glue, 17 attribute, 47 glue_spec, 17 attribute_l
+ 740 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 46 glue, 18 attribute, 47 glue_spec, 18 attribute_l
 ist, 1 write nodes
-   avail lists: 2:823,3:221,4:57,5:516,6:7466,7:1878,8:122,9:451,10:13,11:757
+   avail lists: 2:724,3:222,4:61,5:529,6:7631,7:1907,8:122,9:453,10:13,11:769
  26369 multiletter control sequences out of 65536+600000
  42 fonts using 3562891 bytes
- 52i,13n,43p,377b,437s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 52i,13n,43p,389b,363s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/local/texlive/2016/texmf-dist/fonts/opentype/public/lm/lmroman10-italic.ot
 f></usr/local/texlive/2016/texmf-dist/fonts/opentype/public/lm/lmroman10-bold.ot
 f></usr/local/texlive/2016/texmf-dist/fonts/opentype/public/lm/lmroman10-regular
 .otf></usr/local/texlive/2016/texmf-dist/fonts/opentype/public/lm/lmroman12-bold
 .otf></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.p
 fb>
-Output written on CV.pdf (2 pages, 63625 bytes).
+Output written on CV.pdf (2 pages, 63876 bytes).
 
 PDF statistics: 84 PDF objects out of 1000 (max. 8388607)
  60 compressed objects within 1 object stream
