@@ -181,9 +181,12 @@ $\bullet$ Responsible for the product's key metrics and used insights to guide d
 \\
 {\textbf{\textls[-60]{Jul 14-Mar 15}} \par London, UK} & \textbf{Eddy Labs} (Founder.org Class of 2015) – \textit{Machine Learning Engineer}
 
-$\bullet$ Eddy is a home automation startup that, by the use of sound, detects a wide range of home events
+$\bullet$ Eddy is a home automation startup that, by the use of sound, detects a wide range of home events. Fully designed software roadmap for product. 
 
-$\bullet$ Fully designed software roadmap for product. Wrote initial alpha prototype in Python on Raspberry Pi. Machine learning techniques used included: Bayes net, neural networks and SVM.
+$\bullet$ Wrote initial prototype in Python on Raspberry Pi. Built the sound recognition feature extraction stages from scratch (including: MFCC, roll-off and zero-crossing) in order to optimise for slow hardware. 
+
+ $\bullet$ Main challenges were to use audio features that worked well for environmental/ambient sounds thus it was not possible to simply reuse music or speech recognition algorithms but instead we had to extract features that would generalise well for sounds such as windows breaking, running water or footsteps. The main classifier used was a feed-forward neural network after comparing performance to an SVM w/kernels. A simple Bayes net was constructed to infer events from multiple recognised sounds to infer events (e.g. has the house been robbed?)  though this was more theoretical due to lack of data.
+
 
 $\bullet$ Build first iterations of technology stack: website, back-end, signal processing and activity detection
 \\ {\textbf{\textls[-15]{October 2013}} \par Milan, Italy} & \textbf{The Boston Consulting Group} – \textit{Unlim-IT-ed (European IT Business Strategy 3 day Workshop)}
