@@ -1,4 +1,4 @@
-This is LuaTeX, Version 0.95.0 (TeX Live 2016)  (format=lualatex 2016.5.22)  24 FEB 2017 17:05
+This is LuaTeX, Version 0.95.0 (TeX Live 2016)  (format=lualatex 2016.5.22)  24 FEB 2017 17:09
  restricted system commands enabled.
 **CV.tex
 (./CV.tex
@@ -205,7 +205,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.147 seconds)
+luaotfload | main : initialization completed in 0.129 seconds)
 Lua module: fontspec 2016/02/01 2.5a Advanced font selection for LuaLaTeX.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
 Package: fontspec-luatex 2016/02/01 v2.5a Font selection for XeLaTeX and LuaLaTe
@@ -887,8 +887,8 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (
 RS)
 )(compiling luc: /usr/local/texlive/2016/texmf-var/luatex-cache/generic/fonts/ot
 l/lmroman12-bold.luc)(load luc: /Users/sebg/Library/texlive/2016/texmf-var/luate
-x-cache/generic/fonts/otl/lmroman12-bold.luc) Randomizer initialized to 1201951
-349.
+x-cache/generic/fonts/otl/lmroman12-bold.luc) Randomizer initialized to 1206618
+213.
 Package epstopdf Info: Source file: <Images/GitHub_Logo.eps>
 (epstopdf)                    date: 2017-02-13 07:34:44
 (epstopdf)                    size: 564990 bytes
@@ -1148,7 +1148,7 @@ Here is how much of LuaTeX's memory you used:
  740 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 46 glue, 18 attribute, 47 glue_spec, 18 attribute_l
 ist, 1 write nodes
-   avail lists: 2:737,3:237,4:76,5:607,6:8928,7:2166,8:124,9:473,10:13,11:873
+   avail lists: 2:737,3:237,4:76,5:607,6:8935,7:2167,8:124,9:473,10:13,11:874
  27875 multiletter control sequences out of 65536+600000
  42 fonts using 3514123 bytes
  52i,13n,65p,618b,448s stack positions out of 5000i,500n,10000p,200000b,100000s
@@ -1159,7 +1159,7 @@ old.otf></usr/local/texlive/2016/texmf-dist/fonts/opentype/public/lm/lmroman10-r
 egular.otf></usr/local/texlive/2016/texmf-dist/fonts/opentype/public/lm/lmroman1
 2-bold.otf></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 sy10.pfb>
-Output written on CV.pdf (2 pages, 66328 bytes).
+Output written on CV.pdf (2 pages, 66335 bytes).
 
 PDF statistics: 93 PDF objects out of 1000 (max. 8388607)
  66 compressed objects within 1 object stream
