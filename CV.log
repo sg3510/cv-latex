@@ -1,8 +1,4 @@
-<<<<<<< Updated upstream
-This is LuaTeX, Version 0.95.0 (TeX Live 2016)  (format=lualatex 2017.1.29)  20 FEB 2017 18:15
-=======
-This is LuaTeX, Version 0.95.0 (TeX Live 2016)  (format=lualatex 2016.5.22)  22 FEB 2017 16:30
->>>>>>> Stashed changes
+This is LuaTeX, Version 0.95.0 (TeX Live 2016)  (format=lualatex 2016.5.22)  24 FEB 2017 17:05
  restricted system commands enabled.
 **CV.tex
 (./CV.tex
@@ -209,11 +205,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-<<<<<<< Updated upstream
-luaotfload | main : initialization completed in 0.136 seconds)
-=======
-luaotfload | main : initialization completed in 0.315 seconds)
->>>>>>> Stashed changes
+luaotfload | main : initialization completed in 0.147 seconds)
 Lua module: fontspec 2016/02/01 2.5a Advanced font selection for LuaLaTeX.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
 Package: fontspec-luatex 2016/02/01 v2.5a Font selection for XeLaTeX and LuaLaTe
@@ -629,11 +621,60 @@ Package: randtext 2004/12/20 Obfuscate text
 \se@random=\count144
 \se@pos=\dimen147
 )
+(/usr/local/texlive/2016/texmf-dist/tex/latex/fontawesome/fontawesome.sty
+Package: fontawesome 2016/05/15 v4.6.3.1 font awesome icons
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-ge
+neric.tex)
+luaotfload | cache : Lookup cache loaded from /Users/sebg/Library/texlive/2016/t
+exmf-var/luatex-cache/generic/names/luaotfload-lookup-cache.luc.(compiling luc: 
+/usr/local/texlive/2016/texmf-var/luatex-cache/generic/fonts/otl/fontawesome.luc
+)(load luc: /Users/sebg/Library/texlive/2016/texmf-var/luatex-cache/generic/font
+s/otl/fontawesome.luc)
+luaotfload | aux : font no 21 (<unknown>) defines no feature for script latn
+luaotfload | aux : no font with id 21
+.................................................
+. fontspec info: "no-scripts"
+. 
+. Font FontAwesome does not contain any OpenType `Script' information.
+.................................................
+\g__fontspec_family_FontAwesome_int=\count145
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font FontAwesome/BI (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font FontAwesome/B (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font FontAwesome/I (it probably doesn't exist).
+.................................................
+luaotfload | aux : font no 21 (<unknown>) does not define feature smcp for scrip
+t  with language 
+luaotfload | aux : no font with id 21
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'FontAwesome(0)' created for font 'FontAwesome' with options
+. [Ligatures=TeX].
+. 
+. This font family consists of the following NFSS series/shapes:
+. - 'normal' (m/n) with NFSS spec.: <->"FontAwesome:mode=node;+tlig;"
+. - 'small caps'  (m/sc) with NFSS spec.: 
+.................................................
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-xe
+luatex.tex))
 (/usr/local/texlive/2016/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
-\Gm@cnth=\count145
-\Gm@cntv=\count146
-\c@Gm@tempcnt=\count147
+\Gm@cnth=\count146
+\Gm@cntv=\count147
+\c@Gm@tempcnt=\count148
 \Gm@bindingoffset=\dimen148
 \Gm@wd@mp=\dimen149
 \Gm@odd@mp=\dimen150
@@ -693,16 +734,16 @@ LaTeX Font Info:    ... okay on input line 75.
 
 (/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count148
+\scratchcounter=\count149
 \scratchdimen=\dimen156
 \scratchbox=\box46
-\nofMPsegments=\count149
-\nofMParguments=\count150
+\nofMPsegments=\count150
+\nofMParguments=\count151
 \everyMPshowfont=\toks22
-\MPscratchCnt=\count151
+\MPscratchCnt=\count152
 \MPscratchDim=\dimen157
-\MPnumerator=\count152
-\makeMPintoPDFobject=\count153
+\MPnumerator=\count153
+\makeMPintoPDFobject=\count154
 \everyMPtoPDFconversion=\toks23
 )
 .................................................
@@ -771,7 +812,7 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count154
+\c@section@level=\count155
 )
 LaTeX Info: Redefining \ref on input line 75.
 LaTeX Info: Redefining \pageref on input line 75.
@@ -845,15 +886,9 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (
 RS)
 )(compiling luc: /usr/local/texlive/2016/texmf-var/luatex-cache/generic/fonts/ot
-<<<<<<< Updated upstream
-l/lmroman12-bold.luc)(load luc: /Users/seb/Library/texlive/2016/texmf-var/luatex
--cache/generic/fonts/otl/lmroman12-bold.luc) Randomizer initialized to 12836210
-81.
-=======
 l/lmroman12-bold.luc)(load luc: /Users/sebg/Library/texlive/2016/texmf-var/luate
-x-cache/generic/fonts/otl/lmroman12-bold.luc) Randomizer initialized to 1161116
-095.
->>>>>>> Stashed changes
+x-cache/generic/fonts/otl/lmroman12-bold.luc) Randomizer initialized to 1201951
+349.
 Package epstopdf Info: Source file: <Images/GitHub_Logo.eps>
 (epstopdf)                    date: 2017-02-13 07:34:44
 (epstopdf)                    size: 564990 bytes
@@ -898,17 +933,184 @@ Overfull \hbox (23.99998pt too wide) in paragraph at lines 80--91
 (compiling luc: /usr/local/texlive/2016/texmf-var/luatex-cache/generic/fonts/otl
 /lmroman12-regular.luc)(load luc: /Users/sebg/Library/texlive/2016/texmf-var/lua
 tex-cache/generic/fonts/otl/lmroman12-regular.luc)
-Overfull \hbox (7.78256pt too wide) in alignment at lines 109--129
+Package microtype Info: Loading generic settings for font family
+(microtype)             `FontAwesome' (encoding: EU2).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package microtype Info: Character `A' is missing
+(microtype)             in font `EU2/FontAwesome(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `F' is missing
+(microtype)             in font `EU2/FontAwesome(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `J' is missing
+(microtype)             in font `EU2/FontAwesome(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `K' is missing
+(microtype)             in font `EU2/FontAwesome(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `L' is missing
+(microtype)             in font `EU2/FontAwesome(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `T' is missing
+(microtype)             in font `EU2/FontAwesome(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `V' is missing
+(microtype)             in font `EU2/FontAwesome(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `W' is missing
+(microtype)             in font `EU2/FontAwesome(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `X' is missing
+(microtype)             in font `EU2/FontAwesome(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `Y' is missing
+(microtype)             in font `EU2/FontAwesome(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `k' is missing
+(microtype)             in font `EU2/FontAwesome(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `r' is missing
+(microtype)             in font `EU2/FontAwesome(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `v' is missing
+(microtype)             in font `EU2/FontAwesome(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `w' is missing
+(microtype)             in font `EU2/FontAwesome(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `x' is missing
+(microtype)             in font `EU2/FontAwesome(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `y' is missing
+(microtype)             in font `EU2/FontAwesome(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `1' is missing
+(microtype)             in font `EU2/FontAwesome(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `4' is missing
+(microtype)             in font `EU2/FontAwesome(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `7' is missing
+(microtype)             in font `EU2/FontAwesome(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `.' is missing
+(microtype)             in font `EU2/FontAwesome(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `,' is missing
+(microtype)             in font `EU2/FontAwesome(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `:' is missing
+(microtype)             in font `EU2/FontAwesome(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `;' is missing
+(microtype)             in font `EU2/FontAwesome(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `!' is missing
+(microtype)             in font `EU2/FontAwesome(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `?' is missing
+(microtype)             in font `EU2/FontAwesome(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `@' is missing
+(microtype)             in font `EU2/FontAwesome(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `~' is missing
+(microtype)             in font `EU2/FontAwesome(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `%' is missing
+(microtype)             in font `EU2/FontAwesome(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `*' is missing
+(microtype)             in font `EU2/FontAwesome(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `+' is missing
+(microtype)             in font `EU2/FontAwesome(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `(' is missing
+(microtype)             in font `EU2/FontAwesome(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `)' is missing
+(microtype)             in font `EU2/FontAwesome(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `/' is missing
+(microtype)             in font `EU2/FontAwesome(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `-' is missing
+(microtype)             in font `EU2/FontAwesome(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textendash ' is missing
+(microtype)             in font `EU2/FontAwesome(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textemdash ' is missing
+(microtype)             in font `EU2/FontAwesome(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textquoteleft ' is missing
+(microtype)             in font `EU2/FontAwesome(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textquoteright ' is missing
+(microtype)             in font `EU2/FontAwesome(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textquotedblleft ' is missing
+(microtype)             in font `EU2/FontAwesome(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textquotedblright ' is missing
+(microtype)             in font `EU2/FontAwesome(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `_' is missing
+(microtype)             in font `EU2/FontAwesome(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textbackslash ' is missing
+(microtype)             in font `EU2/FontAwesome(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `quotesinglbase ' is missing
+(microtype)             in font `EU2/FontAwesome(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `quotedblbase ' is missing
+(microtype)             in font `EU2/FontAwesome(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guilsinglleft ' is missing
+(microtype)             in font `EU2/FontAwesome(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guilsinglright ' is missing
+(microtype)             in font `EU2/FontAwesome(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guillemotleft ' is missing
+(microtype)             in font `EU2/FontAwesome(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guillemotright ' is missing
+(microtype)             in font `EU2/FontAwesome(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textexclamdown ' is missing
+(microtype)             in font `EU2/FontAwesome(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textquestiondown ' is missing
+(microtype)             in font `EU2/FontAwesome(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textbraceleft ' is missing
+(microtype)             in font `EU2/FontAwesome(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textbraceright ' is missing
+(microtype)             in font `EU2/FontAwesome(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textless ' is missing
+(microtype)             in font `EU2/FontAwesome(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textgreater ' is missing
+(microtype)             in font `EU2/FontAwesome(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+
+Overfull \hbox (7.78256pt too wide) in alignment at lines 109--131
  [][] 
  []
 
 
-Overfull \hbox (7.78256pt too wide) in alignment at lines 152--161
+Overfull \hbox (7.78256pt too wide) in alignment at lines 154--163
  [][] 
  []
 
 
-Overfull \hbox (7.78256pt too wide) in alignment at lines 165--218
+Overfull \hbox (7.78256pt too wide) in alignment at lines 167--220
  [][] 
  []
 
@@ -918,56 +1120,49 @@ ex-cache/generic/fonts/otl/lmroman8-regular.luc) [1
 
 {/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}<./Images/
 GitHub_Logo-eps-converted-to.pdf><./Images/LinkedIn-eps-converted-to.pdf>]
-Overfull \hbox (7.78256pt too wide) in alignment at lines 222--235
+Overfull \hbox (7.78256pt too wide) in alignment at lines 224--237
  [][] 
  []
 
 
-Overfull \hbox (7.78256pt too wide) in alignment at lines 240--249
+Overfull \hbox (7.78256pt too wide) in alignment at lines 242--251
  [][] 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 251.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 253.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
 [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 251.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 253.
  (./CV.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 251.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 251.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 253.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 253.
 Package rerunfilecheck Info: File `CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 251.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 253.
 )
 
 Here is how much of LuaTeX's memory you used:
- 23248 strings out of 495119
+ 24804 strings out of 495119
  100000,552014 words of node,token memory allocated
  740 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 46 glue, 18 attribute, 47 glue_spec, 18 attribute_l
 ist, 1 write nodes
-<<<<<<< Updated upstream
-   avail lists: 2:727,3:233,4:76,5:604,6:8874,7:2152,8:123,9:471,10:13,11:872
-=======
-   avail lists: 2:721,3:232,4:76,5:610,6:8895,7:2155,8:122,9:471,10:13,11:872
->>>>>>> Stashed changes
- 26367 multiletter control sequences out of 65536+600000
- 40 fonts using 3299475 bytes
- 52i,13n,43p,618b,448s stack positions out of 5000i,500n,10000p,200000b,100000s
-</usr/local/texlive/2016/texmf-dist/fonts/opentype/public/lm/lmroman10-italic.ot
-f></usr/local/texlive/2016/texmf-dist/fonts/opentype/public/lm/lmroman10-bold.ot
-f></usr/local/texlive/2016/texmf-dist/fonts/opentype/public/lm/lmroman10-regular
-.otf></usr/local/texlive/2016/texmf-dist/fonts/opentype/public/lm/lmroman12-bold
-.otf></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.p
-fb>
-<<<<<<< Updated upstream
-Output written on CV.pdf (2 pages, 64835 bytes).
-=======
-Output written on CV.pdf (2 pages, 64996 bytes).
->>>>>>> Stashed changes
+   avail lists: 2:737,3:237,4:76,5:607,6:8928,7:2166,8:124,9:473,10:13,11:873
+ 27875 multiletter control sequences out of 65536+600000
+ 42 fonts using 3514123 bytes
+ 52i,13n,65p,618b,448s stack positions out of 5000i,500n,10000p,200000b,100000s
+</usr/local/texlive/2016/texmf-dist/fonts/opentype/public/fontawesome/FontAwesom
+e.otf></usr/local/texlive/2016/texmf-dist/fonts/opentype/public/lm/lmroman10-ita
+lic.otf></usr/local/texlive/2016/texmf-dist/fonts/opentype/public/lm/lmroman10-b
+old.otf></usr/local/texlive/2016/texmf-dist/fonts/opentype/public/lm/lmroman10-r
+egular.otf></usr/local/texlive/2016/texmf-dist/fonts/opentype/public/lm/lmroman1
+2-bold.otf></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+sy10.pfb>
+Output written on CV.pdf (2 pages, 66328 bytes).
 
-PDF statistics: 85 PDF objects out of 1000 (max. 8388607)
- 61 compressed objects within 1 object stream
+PDF statistics: 93 PDF objects out of 1000 (max. 8388607)
+ 66 compressed objects within 1 object stream
  13 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
