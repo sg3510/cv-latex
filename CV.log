@@ -1,4 +1,4 @@
-This is LuaTeX, Version 0.95.0 (TeX Live 2016)  (format=lualatex 2016.5.22)  24 FEB 2017 17:09
+This is LuaTeX, Version 0.95.0 (TeX Live 2016)  (format=lualatex 2017.1.29)  30 DEC 2017 19:22
  restricted system commands enabled.
 **CV.tex
 (./CV.tex
@@ -177,11 +177,11 @@ Package: luaotfload 2016/04/21 v2.7 OpenType layout system
 Lua module: luaotfload-main 2016/04/21 2.70002 OpenType layout system.
 Lua module: lualibs 2016-04-06 2.4 ConTeXt Lua standard libraries.
 Lua module: lualibs-extended 2016-04-06 2.4 ConTeXt Lua libraries -- extended co
-llection.(using write cache: /Users/sebg/Library/texlive/2016/texmf-var/luatex-c
-ache/generic)(using read cache: /usr/local/texlive/2016/texmf-var/luatex-cache/g
-eneric /Users/sebg/Library/texlive/2016/texmf-var/luatex-cache/generic)
-luaotfload | conf : Root cache directory is /Users/sebg/Library/texlive/2016/tex
-mf-var/luatex-cache/generic/names.
+llection.(using write cache: /Users/seb/Library/texlive/2016/texmf-var/luatex-ca
+che/generic)(using read cache: /usr/local/texlive/2016/texmf-var/luatex-cache/ge
+neric /Users/seb/Library/texlive/2016/texmf-var/luatex-cache/generic)
+luaotfload | conf : Root cache directory is /Users/seb/Library/texlive/2016/texm
+f-var/luatex-cache/generic/names.
 luaotfload | init : Loading fontloader “fontloader-2016-05-04.lua” from kpse
 -resolved path “/usr/local/texlive/2016/texmf-dist/tex/luatex/luaotfload/fontl
 oader-2016-05-04.lua”.
@@ -193,8 +193,8 @@ Inserting `luaotfload.node_processor' at position 1 in `pre_linebreak_filter'.
 Inserting `luaotfload.node_processor' at position 1 in `hpack_filter'.
 Inserting `luaotfload.define_font' at position 1 in `define_font'.
 Lua-only attribute luaotfload_color_attribute = 4
-luaotfload | conf : Root cache directory is /Users/sebg/Library/texlive/2016/tex
-mf-var/luatex-cache/generic/names.
+luaotfload | conf : Root cache directory is /Users/seb/Library/texlive/2016/texm
+f-var/luatex-cache/generic/names.
 Inserting `luaotfload.aux.set_sscale_dimens' at position 1 in `luaotfload.patch_
 font'.
 Inserting `luaotfload.aux.patch_cambria_domh' at position 2 in `luaotfload.patch
@@ -205,7 +205,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.129 seconds)
+luaotfload | main : initialization completed in 0.136 seconds)
 Lua module: fontspec 2016/02/01 2.5a Advanced font selection for LuaLaTeX.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
 Package: fontspec-luatex 2016/02/01 v2.5a Font selection for XeLaTeX and LuaLaTe
@@ -229,11 +229,11 @@ LaTeX Font Info:    Try loading font information for EU2+lmr on input line 105.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/euenc/eu2lmr.fd
 File: eu2lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-luaotfload | db : Font names database loaded from /Users/sebg/Library/texlive/20
-16/texmf-var/luatex-cache/generic/names/luaotfload-names.luc(compiling luc: /usr
-/local/texlive/2016/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-regular.l
-uc)(load luc: /Users/sebg/Library/texlive/2016/texmf-var/luatex-cache/generic/fo
-nts/otl/lmroman10-regular.luc))
+luaotfload | db : Font names database loaded from /Users/seb/Library/texlive/201
+6/texmf-var/luatex-cache/generic/names/luaotfload-names.luc(compiling luc: /usr/
+local/texlive/2016/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-regular.lu
+c)(load luc: /Users/seb/Library/texlive/2016/texmf-var/luatex-cache/generic/font
+s/otl/lmroman10-regular.luc))
 (/usr/local/texlive/2016/texmf-dist/tex/xelatex/xunicode/xunicode.sty
 File: xunicode.sty 2011/09/09 v0.981 provides access to latin accents and many o
 ther characters in Unicode lower plane
@@ -241,21 +241,21 @@ ther characters in Unicode lower plane
 (/usr/local/texlive/2016/texmf-dist/tex/latex/tipa/t3enc.def
 File: t3enc.def 2001/12/31 T3 encoding
 (compiling luc: /usr/local/texlive/2016/texmf-var/luatex-cache/generic/fonts/otl
-/lmromanslant10-regular.luc)(load luc: /Users/sebg/Library/texlive/2016/texmf-va
-r/luatex-cache/generic/fonts/otl/lmromanslant10-regular.luc)(compiling luc: /usr
-/local/texlive/2016/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-italic.lu
-c)(load luc: /Users/sebg/Library/texlive/2016/texmf-var/luatex-cache/generic/fon
-ts/otl/lmroman10-italic.luc)(compiling luc: /usr/local/texlive/2016/texmf-var/lu
-atex-cache/generic/fonts/otl/lmroman10-bold.luc)(load luc: /Users/sebg/Library/t
-exlive/2016/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-bold.luc)
+/lmromanslant10-regular.luc)(load luc: /Users/seb/Library/texlive/2016/texmf-var
+/luatex-cache/generic/fonts/otl/lmromanslant10-regular.luc)(compiling luc: /usr/
+local/texlive/2016/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-italic.luc
+)(load luc: /Users/seb/Library/texlive/2016/texmf-var/luatex-cache/generic/fonts
+/otl/lmroman10-italic.luc)(compiling luc: /usr/local/texlive/2016/texmf-var/luat
+ex-cache/generic/fonts/otl/lmroman10-bold.luc)(load luc: /Users/seb/Library/texl
+ive/2016/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-bold.luc)
 LaTeX Font Info:    Try loading font information for EU2+lmss on input line 357.
 
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/euenc/eu2lmss.fd
 File: eu2lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )(compiling luc: /usr/local/texlive/2016/texmf-var/luatex-cache/generic/fonts/ot
-l/lmsans10-regular.luc)(load luc: /Users/sebg/Library/texlive/2016/texmf-var/lua
-tex-cache/generic/fonts/otl/lmsans10-regular.luc))
+l/lmsans10-regular.luc)(load luc: /Users/seb/Library/texlive/2016/texmf-var/luat
+ex-cache/generic/fonts/otl/lmsans10-regular.luc))
 \tipaTiiicode=\count123
 \tipasavetokens=\toks15
 \tipachecktokens=\toks16
@@ -626,11 +626,11 @@ Package: fontawesome 2016/05/15 v4.6.3.1 font awesome icons
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-ge
 neric.tex)
-luaotfload | cache : Lookup cache loaded from /Users/sebg/Library/texlive/2016/t
-exmf-var/luatex-cache/generic/names/luaotfload-lookup-cache.luc.(compiling luc: 
-/usr/local/texlive/2016/texmf-var/luatex-cache/generic/fonts/otl/fontawesome.luc
-)(load luc: /Users/sebg/Library/texlive/2016/texmf-var/luatex-cache/generic/font
-s/otl/fontawesome.luc)
+luaotfload | cache : Lookup cache loaded from /Users/seb/Library/texlive/2016/te
+xmf-var/luatex-cache/generic/names/luaotfload-lookup-cache.luc.(compiling luc: /
+usr/local/texlive/2016/texmf-var/luatex-cache/generic/fonts/otl/fontawesome.luc)
+(load luc: /Users/seb/Library/texlive/2016/texmf-var/luatex-cache/generic/fonts/
+otl/fontawesome.luc)
 luaotfload | aux : font no 21 (<unknown>) defines no feature for script latn
 luaotfload | aux : no font with id 21
 .................................................
@@ -872,11 +872,11 @@ rn Roman (RS)
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 (compiling luc: /usr/local/texlive/2016/texmf-var/luatex-cache/generic/fonts/otl
-/lmroman7-regular.luc)(load luc: /Users/sebg/Library/texlive/2016/texmf-var/luat
-ex-cache/generic/fonts/otl/lmroman7-regular.luc)(compiling luc: /usr/local/texli
-ve/2016/texmf-var/luatex-cache/generic/fonts/otl/lmroman5-regular.luc)(load luc:
- /Users/sebg/Library/texlive/2016/texmf-var/luatex-cache/generic/fonts/otl/lmrom
-an5-regular.luc)
+/lmroman7-regular.luc)(load luc: /Users/seb/Library/texlive/2016/texmf-var/luate
+x-cache/generic/fonts/otl/lmroman7-regular.luc)(compiling luc: /usr/local/texliv
+e/2016/texmf-var/luatex-cache/generic/fonts/otl/lmroman5-regular.luc)(load luc: 
+/Users/seb/Library/texlive/2016/texmf-var/luatex-cache/generic/fonts/otl/lmroman
+5-regular.luc)
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 80.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -886,14 +886,14 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (
 RS)
 )(compiling luc: /usr/local/texlive/2016/texmf-var/luatex-cache/generic/fonts/ot
-l/lmroman12-bold.luc)(load luc: /Users/sebg/Library/texlive/2016/texmf-var/luate
-x-cache/generic/fonts/otl/lmroman12-bold.luc) Randomizer initialized to 1206618
-213.
+l/lmroman12-bold.luc)(load luc: /Users/seb/Library/texlive/2016/texmf-var/luatex
+-cache/generic/fonts/otl/lmroman12-bold.luc) Randomizer initialized to 13617920
+33.
 Package epstopdf Info: Source file: <Images/GitHub_Logo.eps>
-(epstopdf)                    date: 2017-02-13 07:34:44
+(epstopdf)                    date: 2015-02-19 14:41:54
 (epstopdf)                    size: 564990 bytes
 (epstopdf)             Output file: <Images/GitHub_Logo-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-02-13 07:34:44
+(epstopdf)                    date: 2017-01-28 02:44:52
 (epstopdf)                    size: 12921 bytes
 (epstopdf)             Command: <repstopdf --outfile=Images/GitHub_Logo-eps-conv
 erted-to.pdf Images/GitHub_Logo.eps>
@@ -908,10 +908,10 @@ Package luatex.def Info: Images/GitHub_Logo-eps-converted-to.pdf used on input l
 ine 86.
 (luatex.def)             Requested size: 36.20871pt x 9.78613pt.
 Package epstopdf Info: Source file: <Images/LinkedIn.eps>
-(epstopdf)                    date: 2017-02-13 07:34:44
+(epstopdf)                    date: 2015-02-19 14:41:54
 (epstopdf)                    size: 233497 bytes
 (epstopdf)             Output file: <Images/LinkedIn-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-02-13 07:34:44
+(epstopdf)                    date: 2017-01-28 02:44:52
 (epstopdf)                    size: 12138 bytes
 (epstopdf)             Command: <repstopdf --outfile=Images/LinkedIn-eps-convert
 ed-to.pdf Images/LinkedIn.eps>
@@ -931,8 +931,8 @@ Overfull \hbox (23.99998pt too wide) in paragraph at lines 80--91
  []
 
 (compiling luc: /usr/local/texlive/2016/texmf-var/luatex-cache/generic/fonts/otl
-/lmroman12-regular.luc)(load luc: /Users/sebg/Library/texlive/2016/texmf-var/lua
-tex-cache/generic/fonts/otl/lmroman12-regular.luc)
+/lmroman12-regular.luc)(load luc: /Users/seb/Library/texlive/2016/texmf-var/luat
+ex-cache/generic/fonts/otl/lmroman12-regular.luc)
 Package microtype Info: Loading generic settings for font family
 (microtype)             `FontAwesome' (encoding: EU2).
 (microtype)             For optimal results, create family-specific settings.
@@ -1100,27 +1100,27 @@ Package microtype Info: Character `textgreater ' is missing
 (microtype)             in font `EU2/FontAwesome(0)/m/n/10'.
 (microtype)             Ignoring protrusion settings for this character.
 
-Overfull \hbox (7.78256pt too wide) in alignment at lines 109--131
+Overfull \hbox (7.78256pt too wide) in alignment at lines 109--130
  [][] 
  []
 
 
-Overfull \hbox (7.78256pt too wide) in alignment at lines 154--163
- [][] 
- []
-
-
-Overfull \hbox (7.78256pt too wide) in alignment at lines 167--220
+Overfull \hbox (7.78256pt too wide) in alignment at lines 135--187
  [][] 
  []
 
 (compiling luc: /usr/local/texlive/2016/texmf-var/luatex-cache/generic/fonts/otl
-/lmroman8-regular.luc)(load luc: /Users/sebg/Library/texlive/2016/texmf-var/luat
-ex-cache/generic/fonts/otl/lmroman8-regular.luc) [1
+/lmroman8-regular.luc)(load luc: /Users/seb/Library/texlive/2016/texmf-var/luate
+x-cache/generic/fonts/otl/lmroman8-regular.luc) [1
 
 {/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}<./Images/
 GitHub_Logo-eps-converted-to.pdf><./Images/LinkedIn-eps-converted-to.pdf>]
-Overfull \hbox (7.78256pt too wide) in alignment at lines 224--237
+Overfull \hbox (7.78256pt too wide) in alignment at lines 211--224
+ [][] 
+ []
+
+
+Overfull \hbox (7.78256pt too wide) in alignment at lines 229--238
  [][] 
  []
 
@@ -1145,13 +1145,13 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 253.
 Here is how much of LuaTeX's memory you used:
  24804 strings out of 495119
  100000,552014 words of node,token memory allocated
- 740 words of node memory still in use:
-   3 hlist, 1 vlist, 1 rule, 46 glue, 18 attribute, 47 glue_spec, 18 attribute_l
+ 722 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 44 glue, 17 attribute, 47 glue_spec, 17 attribute_l
 ist, 1 write nodes
-   avail lists: 2:737,3:237,4:76,5:607,6:8935,7:2167,8:124,9:473,10:13,11:874
+   avail lists: 2:679,3:192,4:60,5:534,6:8068,7:1928,8:98,9:405,10:13,11:783
  27875 multiletter control sequences out of 65536+600000
  42 fonts using 3514123 bytes
- 52i,13n,65p,618b,448s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 52i,13n,65p,617b,406s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/local/texlive/2016/texmf-dist/fonts/opentype/public/fontawesome/FontAwesom
 e.otf></usr/local/texlive/2016/texmf-dist/fonts/opentype/public/lm/lmroman10-ita
 lic.otf></usr/local/texlive/2016/texmf-dist/fonts/opentype/public/lm/lmroman10-b
@@ -1159,10 +1159,10 @@ old.otf></usr/local/texlive/2016/texmf-dist/fonts/opentype/public/lm/lmroman10-r
 egular.otf></usr/local/texlive/2016/texmf-dist/fonts/opentype/public/lm/lmroman1
 2-bold.otf></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 sy10.pfb>
-Output written on CV.pdf (2 pages, 66335 bytes).
+Output written on CV.pdf (2 pages, 66585 bytes).
 
-PDF statistics: 93 PDF objects out of 1000 (max. 8388607)
- 66 compressed objects within 1 object stream
+PDF statistics: 95 PDF objects out of 1000 (max. 8388607)
+ 68 compressed objects within 1 object stream
  13 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
