@@ -1,4 +1,4 @@
-This is LuaTeX, Version 0.95.0 (TeX Live 2016)  (format=lualatex 2017.1.29)  8 JAN 2018 18:24
+This is LuaTeX, Version 0.95.0 (TeX Live 2016)  (format=lualatex 2017.1.29)  8 JAN 2018 18:48
  restricted system commands enabled.
 **CV.tex
 (./CV.tex
@@ -205,7 +205,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.200 seconds)
+luaotfload | main : initialization completed in 0.132 seconds)
 Lua module: fontspec 2016/02/01 2.5a Advanced font selection for LuaLaTeX.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
 Package: fontspec-luatex 2016/02/01 v2.5a Font selection for XeLaTeX and LuaLaTe
@@ -887,8 +887,8 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (
 RS)
 )(compiling luc: /usr/local/texlive/2016/texmf-var/luatex-cache/generic/fonts/ot
 l/lmroman12-bold.luc)(load luc: /Users/seb/Library/texlive/2016/texmf-var/luatex
--cache/generic/fonts/otl/lmroman12-bold.luc) Randomizer initialized to 12941233
-67.
+-cache/generic/fonts/otl/lmroman12-bold.luc) Randomizer initialized to 13221245
+51.
 Package epstopdf Info: Source file: <Images/GitHub_Logo.eps>
 (epstopdf)                    date: 2015-02-19 06:41:54
 (epstopdf)                    size: 564990 bytes
@@ -1104,7 +1104,7 @@ Package microtype Info: Character `textgreater ' is missing
 (microtype)             in font `EU2/FontAwesome(0)/m/n/10'.
 (microtype)             Ignoring protrusion settings for this character.
 
-Overfull \hbox (7.78256pt too wide) in alignment at lines 135--187
+Overfull \hbox (7.78256pt too wide) in alignment at lines 135--184
  [][] 
  []
 
@@ -1114,43 +1114,43 @@ x-cache/generic/fonts/otl/lmroman8-regular.luc) [1
 
 {/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}<./Images/
 GitHub_Logo-eps-converted-to.pdf><./Images/LinkedIn-eps-converted-to.pdf>]
-Overfull \hbox (7.78256pt too wide) in alignment at lines 211--224
+Overfull \hbox (7.78256pt too wide) in alignment at lines 205--218
  [][] 
  []
 
 
-Overfull \hbox (7.78256pt too wide) in alignment at lines 229--238
+Overfull \hbox (7.78256pt too wide) in alignment at lines 223--232
  [][] 
  []
 
 
-Overfull \hbox (7.78256pt too wide) in alignment at lines 242--251
+Overfull \hbox (7.78256pt too wide) in alignment at lines 235--244
  [][] 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 253.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 246.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
 [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 253.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 246.
  (./CV.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 253.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 253.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 246.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 246.
 Package rerunfilecheck Info: File `CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 253.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 246.
 )
 
 Here is how much of LuaTeX's memory you used:
  24804 strings out of 495119
  100000,552014 words of node,token memory allocated
- 722 words of node memory still in use:
-   3 hlist, 1 vlist, 1 rule, 44 glue, 17 attribute, 47 glue_spec, 17 attribute_l
+ 740 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 46 glue, 18 attribute, 47 glue_spec, 18 attribute_l
 ist, 1 write nodes
-   avail lists: 2:683,3:194,4:61,5:535,6:8091,7:1935,8:100,9:405,10:13,11:779
+   avail lists: 2:706,3:190,4:59,5:513,6:7659,7:1851,8:100,9:395,10:14,11:721
  27875 multiletter control sequences out of 65536+600000
  42 fonts using 3514123 bytes
- 52i,13n,65p,617b,406s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 52i,13n,65p,617b,389s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/local/texlive/2016/texmf-dist/fonts/opentype/public/fontawesome/FontAwesom
 e.otf></usr/local/texlive/2016/texmf-dist/fonts/opentype/public/lm/lmroman10-ita
 lic.otf></usr/local/texlive/2016/texmf-dist/fonts/opentype/public/lm/lmroman10-b
@@ -1158,7 +1158,7 @@ old.otf></usr/local/texlive/2016/texmf-dist/fonts/opentype/public/lm/lmroman10-r
 egular.otf></usr/local/texlive/2016/texmf-dist/fonts/opentype/public/lm/lmroman1
 2-bold.otf></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 sy10.pfb>
-Output written on CV.pdf (2 pages, 66798 bytes).
+Output written on CV.pdf (2 pages, 66530 bytes).
 
 PDF statistics: 96 PDF objects out of 1000 (max. 8388607)
  69 compressed objects within 1 object stream
